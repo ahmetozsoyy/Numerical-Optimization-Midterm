@@ -1,0 +1,1 @@
+"A software that performs calculations for derivative computation, bisection method, golden section search, stationary point detection, and Newton-Raphson method, which are commonly used techniques in numerical optimization."
